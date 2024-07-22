@@ -21,3 +21,5 @@ Cause Analysis : Insights into the most common causes of accidents.
 This project demonstrates the power of data visualization in understanding complex datasets. By analyzing road accident data, valuable insights can be gained that can aid in the development of effective safety measures.
 ## Dashboard :
 ![Screenshot (249)](https://github.com/user-attachments/assets/c55bcd08-3813-4ad9-86b3-c69e14c9f7ab)
+![Uploading Screenshot (250).png…]()
+
